@@ -1,0 +1,41 @@
+/* 
+Suppose that you're workin in a small town administration, and your in charge of two town elements:
+1. Parks
+2. Streets
+
+
+It has 3 parks, and 4 streets. All park and streets have a name and a build year.
+1. Tree density of each park in the town(formula: number of trees/park)
+
+2. Average age of each town's park(formula: sum of all ages / number of park)
+
+3. The name of the park that has more than 1000 trees
+
+4. Total and average length of the towns streets.
+
+5. Size classification of all streets: tiny/small/normal/big/huge. If the size is unkown, the default is normal
+
+All the report data should be printed to the console. 
+
+Hint: use some of the ES6 features: classes, subclasses,template strings,default parameters,map,arrow functions,destructuring, etc
+
+ --- PARK REPORTS ---
+1)Our three parks have an average age of 71.33333 years.
+2)Gren Park has a tree density of 1075 trees oper square km
+3)National Park has a tree denstiy of 1221.0344 trees per square km
+4) Oak Park has a tree density of 2372.5 trees per square km
+5) National Park has more than 1000 trees
+
+ --- STREET REPORTS ---
+Our 4 street have a total length of 7.100005 km, with an average of 1.7750001 km.
+
+Ocean avenue, built in 1999, is a big street.
+Evergarden Street, built in 2008, is a small street.
+4th Street, built in 2015,is a normal street.
+Sunset Boulevard, built in 1982, is a huge street.
+
+
+
+
+ */
+
